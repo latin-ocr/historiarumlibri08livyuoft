@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiarumlibri08livyuoft_0446.png"; bbox 0 0 1632 2641; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 279 0 294 25">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 279 0 294 25">
+     <span class='ocr_line' id='line_1_1' title="bbox 279 0 294 25; baseline -12.5 37.5"><span class='ocrx_word' id='word_1_1' title='bbox 279 0 294 25; x_wconf 71' lang='grc' dir='ltr'><em>,ἴ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 2134 0 2277">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 2134 0 2277">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 2134 0 2277"><span class='ocrx_word' id='word_1_2' title='bbox 0 2134 0 2277; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 996 227 1040 300">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 996 227 1040 300">
+     <span class='ocr_line' id='line_1_3' title="bbox 996 227 1040 300; baseline 73 -3066"><span class='ocrx_word' id='word_1_3' title='bbox 1037 227 1039 229; x_wconf 88' lang='grc'>.</span> <span class='ocrx_word' id='word_1_4' title='bbox 996 268 1040 300; x_wconf 50' lang='lat' dir='ltr'><em>f</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1219 0 1632 2149">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1219 0 1632 2149">
+     <span class='ocr_line' id='line_1_4' title="bbox 1219 0 1632 2149"><span class='ocrx_word' id='word_1_5' title='bbox 1219 0 1632 2149; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 582 547 603 554">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 582 547 603 554">
+     <span class='ocr_line' id='line_1_5' title="bbox 582 547 603 554; baseline 0 -3"><span class='ocrx_word' id='word_1_6' title='bbox 582 547 603 554; x_wconf 43' lang='lat' dir='ltr'><em>„A</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
